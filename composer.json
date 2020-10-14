@@ -1,0 +1,14 @@
+{
+    "name": "bened/test",
+    "minimum-stability": "dev",
+    "require": {        
+        "symfony/var-dumper": "5.x-dev",
+        "cmb2/cmb2": "dev-master",
+        "dompdf/dompdf": "dev-master"      
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "inc/"
+        }
+    }
+}
