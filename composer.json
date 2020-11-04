@@ -7,6 +7,9 @@
         "dompdf/dompdf": "dev-master"      
     },
     "autoload": {
+        "files": [
+            "/vendor/cmb2/init.php"
+        ],
         "psr-4": {
             "App\\": "inc/"
         }
