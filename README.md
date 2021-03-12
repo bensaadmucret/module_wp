@@ -1,1 +1,1 @@
-"# essental-dashboard-plugin" 
+"# essential-dashboard-plugin" 
